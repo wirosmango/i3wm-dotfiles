@@ -13,6 +13,7 @@ this is my dotfiles for i3wm idk
 >git clone https://github.com/PurityMind/i3wm-dotfiles.git
 >>cd i3wm-dofiles
 >>>cp -r * ~/.config
+>>>
 >>>sudo chmod +x ~/.config/polybar/launch.sh
 
 # **And done!**
