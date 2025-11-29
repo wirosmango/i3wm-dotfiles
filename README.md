@@ -1,7 +1,8 @@
 # i3wm-dotfiles
 this is my dotfiles for i3wm idk
 
-<img width="1599" height="899" alt="image_2025-11-23_17-57-58" src="https://github.com/user-attachments/assets/273e80da-502d-418e-9513-41762da773b8" />
+<img width="1599" height="899" alt="2025-11-29_21-53" src="https://github.com/user-attachments/assets/21649a60-b826-4482-b89a-5cdce2ad30f0" />
+
 
 # **Used software**
 ```
