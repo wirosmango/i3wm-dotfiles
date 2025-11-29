@@ -15,7 +15,7 @@ JetBrains Mono
 
 # **Installation/Установка**
 
->git clone https://github.com/PurityMind/i3wm-dotfiles.git
+>git clone https://github.com/wirosmango/i3wm-dotfiles.git
 >>cd i3wm-dofiles
 >>>cp -r * ~/.config
 >>>
