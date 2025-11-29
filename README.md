@@ -8,6 +8,10 @@ this is my dotfiles for i3wm idk
 ```
  i3wm, picom, rofi, dunst, alacritty, fastfetch, polybar, feh, flameshot
 ```
+# **Used font in alacritty**
+```
+JetBrains Mono
+```
 
 # **Installation**
 
