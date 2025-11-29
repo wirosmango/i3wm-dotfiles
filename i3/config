@@ -30,7 +30,7 @@ exec --no-startup-id dex --autostart --environment i3
 exec feh --bg-fill ~/.config/i3/foggy-city.jpg
 
 # Layout
-exec --no-startup-id setxkbmap -layout us,ru -option grp:alt_shift_toggle
+exec --no-startup-id "setxkbmap -layout us,ru -option grp:alt_shift_toggle"
 
 # Gaps
 gaps inner 8
