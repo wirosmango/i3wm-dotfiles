@@ -5,11 +5,7 @@
 
 # **Used software/Использованные пакеты**
 ```
- i3wm, picom, rofi, dunst, alacritty, fastfetch, polybar, feh, flameshot, kitty
-```
-# **Used font in alacritty/Шрифт в alacritty**
-```
-JetBrains Mono
+ i3wm, picom, rofi, dunst, dolphin, fastfetch, polybar, feh, flameshot, kitty
 ```
 
 # **Installation/Установка**
