@@ -40,7 +40,9 @@ gaps outer 1
 exec picom
 
 # Title
-for_window [class="^.*"] border pixel 0
+for_window [class="^.*"] border pixel 2
+client.focused #00008B #00008B #ffffff #00008B #00008B
+client.unfocused #4169E1 #4169E1 #000000 #4169E1 #4169E1
 
 # FlameShot
 bindsym Print exec flameshot gui
