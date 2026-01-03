@@ -5,7 +5,7 @@
 
 # **Used software/Использованные пакеты**
 ```
- i3wm, picom, rofi, dunst, dolphin, fastfetch, polybar, feh, flameshot, kitty
+ i3wm, picom, rofi, dunst, fastfetch, polybar, feh, flameshot, kitty, thunar
 ```
 
 # **Installation/Установка**
