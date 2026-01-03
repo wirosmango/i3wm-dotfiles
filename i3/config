@@ -80,7 +80,7 @@ bindsym $mod+Return exec kitty
 bindsym $mod+q kill
 
 # start file manager
-bindsym $mod+e exec dolphin
+bindsym $mod+e exec thunar
 
 # start rofi -show drun (a program launcher)
 bindsym $mod+d exec --no-startup-id rofi -show drun
