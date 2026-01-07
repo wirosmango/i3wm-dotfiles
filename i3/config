@@ -79,6 +79,9 @@ bindsym $mod+Return exec kitty
 # kill focused window
 bindsym $mod+q kill
 
+# poweroff
+bindsym $mod+p exec ~/.config/i3/poweroff.sh
+
 # start file manager
 bindsym $mod+e exec thunar
 
