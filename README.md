@@ -3,6 +3,9 @@ This is my dotfiles for i3wm
 
 <img width="1920" height="1080" alt="2026-01-06-175320_hyprshot" src="https://github.com/user-attachments/assets/bfb22e9d-4d84-40d0-a6b2-5534546b27e9" />
 
+# **Screen record**
+
+https://github.com/user-attachments/assets/480a8a66-ab4d-44a4-b2c9-61aa6e74e0c8
 
 # **Dependencies**
 ```
