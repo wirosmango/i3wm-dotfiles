@@ -18,5 +18,6 @@ git clone https://github.com/wirosmango/i3wm-dotfiles.git
 cd i3wm-dofiles
 cp -r * ~/.config
 chmod +x ~/.config/polybar/launch.sh
+chmod +x ~/.config/i3/poweroff.sh
 ```
 **Done!**
