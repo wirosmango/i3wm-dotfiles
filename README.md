@@ -1,15 +1,15 @@
 # i3wm-dotfiles
 This is my dotfiles for i3wm
 
-<img width="1920" height="1080" alt="2026-01-06-175320_hyprshot" src="https://github.com/user-attachments/assets/bfb22e9d-4d84-40d0-a6b2-5534546b27e9" />
+<img width="1919" height="1077" alt="2026-01-09_13-15" src="https://github.com/user-attachments/assets/3e7917a6-692f-4e3e-858f-cc5010b50bd0" />
 
 # **Screen record**
 
-https://github.com/user-attachments/assets/480a8a66-ab4d-44a4-b2c9-61aa6e74e0c8
+https://github.com/user-attachments/assets/33d1cade-276d-4c08-9018-b148dc980040
 
 # **Dependencies**
 ```
- i3wm, picom, rofi, dunst, fastfetch, polybar, feh, flameshot, kitty, thunar, ttf-jetbrains-mono
+ i3wm, picom, rofi, dunst, fastfetch, i3status, feh, flameshot, kitty, thunar, ttf-jetbrains-mono
 ```
 
 # **Installation**
@@ -17,7 +17,6 @@ https://github.com/user-attachments/assets/480a8a66-ab4d-44a4-b2c9-61aa6e74e0c8
 git clone https://github.com/wirosmango/i3wm-dotfiles.git
 cd i3wm-dofiles
 cp -r * ~/.config
-chmod +x ~/.config/polybar/launch.sh
 chmod +x ~/.config/i3/poweroff.sh
 ```
 **Done!**
