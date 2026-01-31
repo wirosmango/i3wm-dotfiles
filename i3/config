@@ -20,6 +20,9 @@ gaps outer 1
 # Picom
 exec picom --config ~/.config/picom/picom-i3.conf
 
+# dunst 
+exec dunst
+
 # Title
 for_window [class="^.*"] border pixel 2
 client.focused #ffffff #ffffff #000000 #ffffff #ffffff
