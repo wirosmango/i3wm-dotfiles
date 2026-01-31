@@ -17,6 +17,5 @@ https://github.com/user-attachments/assets/33d1cade-276d-4c08-9018-b148dc980040
 git clone https://github.com/wirosmango/i3wm-dotfiles.git
 cd i3wm-dofiles
 cp -r * ~/.config
-chmod +x ~/.config/i3/poweroff.sh
 ```
 **Done!**
