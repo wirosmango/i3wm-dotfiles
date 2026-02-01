@@ -1,11 +1,11 @@
 # i3wm-dotfiles
 This is my dotfiles for i3wm
 
-<img width="1919" height="1077" alt="2026-01-09_13-15" src="https://github.com/user-attachments/assets/3e7917a6-692f-4e3e-858f-cc5010b50bd0" />
+<img width="1918" height="1079" alt="2026-02-01_11-35" src="https://github.com/user-attachments/assets/06ff83f2-9570-4c80-b06f-de55aadd338f" />
 
 # **Screen record**
 
-https://github.com/user-attachments/assets/33d1cade-276d-4c08-9018-b148dc980040
+https://github.com/user-attachments/assets/93e8f366-22f7-4196-8cc7-e984b293b2ac
 
 # **Dependencies**
 ```
