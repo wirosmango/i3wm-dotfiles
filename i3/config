@@ -186,15 +186,16 @@ mode "resize" {
 bindsym $mod+r mode "resize"
 
 # Start i3bar (status bar)
-bar {
-        status_command i3status -c ~/.config/i3status/i3status.conf
-        position top
-        colors {
-        	background #000000
-        	separator #878787
-        	focused_workspace #ffffff #ffffff #000000
-        	inactive_workspace #000000 #000000 #ffffff
-        	urgent_workspace #FF0000 #FF0000 #ffffff
-        }
-        i3bar_command i3bar --transparency
-}
+#bar {
+#        status_command i3status -c ~/.config/i3status/i3status.conf
+#        position top
+#        colors {
+#        	background #000000
+#        	separator #878787
+#        	focused_workspace #ffffff #ffffff #000000
+#        	inactive_workspace #000000 #000000 #ffffff
+#        	urgent_workspace #FF0000 #FF0000 #ffffff
+#        }
+#        i3bar_command i3bar --transparency
+#}
+exec polybar
