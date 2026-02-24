@@ -9,7 +9,7 @@ https://github.com/user-attachments/assets/93e8f366-22f7-4196-8cc7-e984b293b2ac
 
 # **Dependencies**
 ```
- i3wm, picom, rofi, dunst, fastfetch, i3status, feh, flameshot, kitty, thunar, ttf-jetbrains-mono
+ i3wm, picom, rofi, dunst, fastfetch, i3status/polybar, feh, flameshot, kitty, thunar, ttf-jetbrains-mono
 ```
 
 # **Installation**
