@@ -28,6 +28,10 @@ for_window [class="^.*"] border pixel 2
 client.focused #ffffff #ffffff #000000 #ffffff #ffffff
 client.unfocused #000000 #000000 #ffffff #000000 #000000
 
+# clipboard tool
+exec --no-startup-id greenclip daemon>/dev/null
+bindsym $mod+c exec --no-startup-id rofi -modi "clipboard:greenclip print" -show clipboard
+
 # FlameShot
 bindsym Print exec flameshot gui
 
