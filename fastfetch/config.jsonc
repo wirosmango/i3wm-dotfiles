@@ -13,8 +13,5 @@
     "cpu",
     "memory",
     "disk",
-    "media",
-    "separator",
-    "colors"
   ]
 }
