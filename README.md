@@ -1,7 +1,7 @@
 # i3wm-dotfiles
 My dotfiles for i3wm
 
-<img width="1917" height="1078" alt="2026-04-30_17-31" src="https://github.com/user-attachments/assets/20a66ff5-5831-4009-a23e-df9671e3db0d" />
+<img width="1919" height="1079" alt="2026-06-09_21-38" src="https://github.com/user-attachments/assets/9f68871f-51d6-4613-9e48-3182bf0c9e70" />
 
 # **Screen record**
 
